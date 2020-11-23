@@ -1,0 +1,9 @@
+ID_Wahana,Nama_Wahana,Harga_Tiket,Batasan_Umur,Batasan_Tinggi
+GDB242,Rolling Stone,89000,anak-anak,tanpa batasan
+AGA911,Jumper Death,80000,dewasa,>=170 cm
+FAN765,Hanging Dunk,95000,semua umur,tanpa batasan
+VMG564,Stylo Pusher,100000,anak-anak,>=170 cm
+DIK123,Door doom,180000,dewasa,>=170 cm
+QWQ121,Wahana Baru,100000,semua umur,tanpa batasan
+ZXX900,King Kong,100000,semua umur,tanpa batasan
+QWQ233,baru,100000,dewasa,>=170 cm
