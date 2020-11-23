@@ -8,3 +8,5 @@ Achmad Ghozali Alfarisi(16519012);
 Galuh Dipa Bharata(16519252);
 Viena Marshalinda Gusnissa(16519302);
 Fathan Ananta Nur(16519332)
+
+Check this demo video: https://youtu.be/EvtJ3HYR0Mw
